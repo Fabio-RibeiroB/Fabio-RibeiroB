@@ -14,7 +14,6 @@ Data Scientist enthusiastic about AI, Bayesian methods, and building intelligent
 - 🔭 Working on **Automated economic data collection and A/B testing frameworks**
 - 🤝 Looking to collaborate on **Open-source ML/Data Science tools**
 - 💬 Ask me about **Bayesian statistics, A/B testing, Python, machine learning**
-- ⚡ Fun fact: **I've contributed to scikit-learn!**
 
 ---
 
