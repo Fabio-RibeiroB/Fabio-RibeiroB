@@ -34,3 +34,9 @@ Data Scientist enthusiastic about AI, Bayesian methods, and building intelligent
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+
+---
+
+### 🏆 GitHub Achievements
+
+![YOLO](https://img.shields.io/badge/Achievement-YOLO-brightgreen?style=flat-square&logo=github&logoColor=white)
